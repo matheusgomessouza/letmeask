@@ -19,6 +19,12 @@
     margin-right: 8px;
   }
 
+  &.outlined {
+    background: #fff;
+    border: 1px solid #835afd;
+    color: #835afd;
+  }
+
   // Aplicar o efeito de HOVER apenas se o botão NÃO estiver desabilitado
   &:not(:disabled):hover {
     filter: brightness(0.9);
