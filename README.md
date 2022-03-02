@@ -9,6 +9,7 @@ Esse projeto foi desenvolvido durante a semana NEXT LEVEL WEEK TOGETHER da [Rock
 - [React](https://reactjs.org/)
 - [Firebase](https://firebase.google.com/)
 - [Typescript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
