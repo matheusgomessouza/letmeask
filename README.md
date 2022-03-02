@@ -22,7 +22,7 @@ cd letmeask
 - Instale as dependências com `yarn` / Install the dependencies with `yarn`
 - Inicie o projeto com `yarn start` / Start the project with `yarn start`
 
-Agora você pode acessar o projeto pelo navegador http://localhost:3000 / now you can access the project in the browser http://localhost:3000
+Agora você pode acessar o projeto pelo navegador http://localhost:3000 / Now you can access the project in the browser http://localhost:3000
 *Será necessário a criação de uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database. / It will be necessary to create an account on [Firebase](https://firebase.google.com/) and a project to provide a Realtime Database.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
